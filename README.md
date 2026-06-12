@@ -61,7 +61,7 @@ ecommerce-analysis/
 ├── delivery.csv
 └── README.md
 
- <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/4dbbaacb-e7c1-4859-8759-1113ca9acb31" />
+ <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/4dbbaacb-e7c1-4859-8759-1113ca9acb31" />
 
 
 💡 Key Insights
@@ -73,7 +73,7 @@ High discount rates correlate strongly with higher return rates across most cate
 Customer segmentation reveals a clear separation between loyal buyers and one-time purchasers
 Delivery delays concentrate in specific seller-region combinations — addressable with operational changes
 
-<img width="500" height="311" alt="image" src="https://github.com/user-attachments/assets/0751fa7d-99f0-4ce9-9138-7838753ee507" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/0751fa7d-99f0-4ce9-9138-7838753ee507" />
 
 
 👤 Author
