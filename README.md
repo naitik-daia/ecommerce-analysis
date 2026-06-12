@@ -1,8 +1,8 @@
-﻿ FlipMart E-Commerce Analytics
+<img width="1693" height="929" alt="image" src="https://github.com/user-attachments/assets/b1776f02-8feb-43df-ad33-2e8dca74f2ea" />
 
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/b1fcc8fa-7ebd-46dc-8739-18cca5b83ef0" />
-
-
+ 
+ 
+ FlipMart E-Commerce Analytics
 
 End-to-end analytics project on a large-scale e-commerce dataset — uncovering revenue patterns, return trends, customer behaviour, and delivery performance to drive data-backed business decisions.
 
@@ -61,7 +61,7 @@ ecommerce-analysis/
 ├── delivery.csv
 └── README.md
 
- <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/4dbbaacb-e7c1-4859-8759-1113ca9acb31" />
+
 
 
 💡 Key Insights
@@ -73,7 +73,7 @@ High discount rates correlate strongly with higher return rates across most cate
 Customer segmentation reveals a clear separation between loyal buyers and one-time purchasers
 Delivery delays concentrate in specific seller-region combinations — addressable with operational changes
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/0751fa7d-99f0-4ce9-9138-7838753ee507" />
+
 
 
 👤 Author
