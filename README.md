@@ -1,77 +1,79 @@
-﻿# FlipMart E-Commerce Analytics
-# 🛒 E-Commerce Analytics Project
+﻿ FlipMart E-Commerce Analytics
 
-An end-to-end data analytics project analyzing a large-scale e-commerce dataset — uncovering revenue patterns, return trends, and customer behavior to drive data-driven business decisions.
+<img width="984" height="527" alt="image" src="https://github.com/user-attachments/assets/b1fcc8fa-7ebd-46dc-8739-18cca5b83ef0" />
 
----
 
-## 📌 Project Overview
 
-This project performs comprehensive analysis of a real-world e-commerce dataset containing millions of rows — cleaning messy data, engineering features, and extracting business insights across sales, returns, customer segments, and product performance.
+End-to-end analytics project on a large-scale e-commerce dataset — uncovering revenue patterns, return trends, customer behaviour, and delivery performance to drive data-backed business decisions.
 
-Built entirely independently using Python, Pandas, SQL, and visualization libraries.
 
----
+📊 Dashboard Preview
 
-## 🎯 Business Questions Answered
 
-- Which product categories drive the most revenue?
-- What are the primary reasons and patterns behind product returns?
-- Which customer segments are most valuable?
-- How do sales trends vary across months and seasons?
-- Which regions perform best in terms of revenue and order volume?
-- What is the relationship between pricing, discounts, and returns?
-- Where are the biggest opportunities to reduce revenue leakage?
+Note: Open ecommmerce dashboard creation.pbit in Power BI Desktop to explore the full interactive dashboard.
 
----
 
-## 🔍 Analysis Performed
 
-- **Sales & Revenue Analysis** — Category-wise and region-wise revenue breakdown
-- **Return Pattern Analysis** — Return rate by category, reason, and customer segment
-- **Customer Segmentation** — Identifying high-value vs high-risk customer groups
-- **Seasonal Trend Analysis** — Monthly and quarterly sales patterns
-- **Discount Impact Analysis** — Effect of discounting on revenue and return rates
-- **KPI Identification** — Key metrics tracking for business performance
-- **SQL Window Functions** — Ranking, rolling averages, cumulative revenue analysis
-- **Correlation Analysis** — Statistical relationships between pricing, discounts, and returns
 
----
+📌 Project Overview
 
-## 🛠️ Tools & Technologies
+This project performs comprehensive analysis of a real-world e-commerce dataset across multiple tables — customers, orders, products, payments, returns, reviews, and sellers. The work covers end-to-end data cleaning, multi-table SQL joins, feature engineering, and business insight extraction.
 
-| Tool | Usage |
-|------|-------|
-| **Python** | Core analysis language |
-| **Pandas** | Data wrangling and manipulation |
-| **NumPy** | Numerical computations |
-| **Matplotlib & Seaborn** | Data visualization |
-| **SQL + PostgreSQL** | Advanced querying, window functions, CTEs |
-| **Jupyter Notebook** | Development environment |
+Built entirely independently using Python, Pandas, SQL, and Power BI.
 
----
 
-## 📂 Repository Structure
+🎯 Business Questions Answered
 
-| File | Description |
-|------|-------------|
-| `ecommerce_analysis.ipynb` | Main analysis notebook with full code and outputs |
-| `ecommerce_dataset.csv` | Dataset used for analysis |
 
----
+Which product categories drive the most revenue?
+What are the primary reasons and patterns behind product returns?
+Which customer segments are most valuable?
+How do sales trends vary across months and seasons?
+Which regions perform best in terms of revenue and order volume?
+What is the relationship between pricing, discounts, and return rates?
+Where are the biggest opportunities to reduce revenue leakage?
 
-## 💡 Key Takeaways
 
-- Return rates vary significantly across product categories — actionable for inventory planning
-- Seasonal peaks in sales have direct implications for supply chain and marketing strategy
-- High discount rates correlate with higher return rates across most categories
-- Customer segmentation reveals clear separation between loyal buyers and one-time purchasers
 
----
+🔍 Analysis Performed
 
-## 👤 Author
+AnalysisDescriptionSales & Revenue AnalysisCategory-wise and region-wise revenue breakdownReturn Pattern AnalysisReturn rate by category, reason, and customer segmentCustomer SegmentationIdentifying high-value vs high-risk customer groupsSeasonal Trend AnalysisMonthly and quarterly sales patternsDiscount Impact AnalysisEffect of discounting on revenue and return ratesDelivery PerformanceOn-time delivery rates, delay patterns by region/sellerSQL Window FunctionsRanking, rolling averages, cumulative revenue analysisCorrelation AnalysisStatistical relationships between pricing, discounts, and returns
 
-**Naitik Bisht** — Self-Taught Data Analyst
-Skilled in Python · SQL · Pandas · PostgreSQL · Tableau · Power BI
 
-[![GitHub](https://img.shields.io/badge/GitHub-naitik--daia-black?logo=github)](https://github.com/naitik-daia)
+🛠️ Tools & Technologies
+
+ToolUsagePythonCore analysis languagePandas & NumPyData wrangling and manipulationMatplotlib & SeabornData visualizationSQL + PostgreSQLAdvanced querying, window functions, CTEsPower BIInteractive dashboard (.pbit template)Jupyter NotebookDevelopment environment
+
+
+📂 Repository Structure
+
+ecommerce-analysis/
+├── ecommerce.ipynb                       # Main analysis notebook
+├── ecommmerce dashboard creation.pbit    # Power BI dashboard template
+├── customers.csv
+├── orders.csv
+├── order_items.csv
+├── products.csv
+├── payments.csv
+├── returns.csv
+├── reviews.csv
+├── sellers.csv
+├── delivery.csv
+└── README.md
+
+
+💡 Key Insights
+
+
+Return rates vary significantly across product categories — directly actionable for inventory planning
+Seasonal sales peaks have clear implications for supply chain and marketing strategy
+High discount rates correlate strongly with higher return rates across most categories
+Customer segmentation reveals a clear separation between loyal buyers and one-time purchasers
+Delivery delays concentrate in specific seller-region combinations — addressable with operational changes
+
+
+
+👤 Author
+
+Naitik Bisht — Self-Taught Data Analyst
+B.Sc. Mathematics | Zakir Husain Delhi College, University of Delhi
